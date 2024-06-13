@@ -1,5 +1,6 @@
 import random
 
+#自訂的function
 def play_game():
     min=1
     max=100
