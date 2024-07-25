@@ -1,6 +1,6 @@
 import student
 
-stu1 = student.Student("葉鈺希",78,92,68)
+stu1 = student.get_student("葉鈺希")
 print(stu1.chinese)
 print(stu1.english)
 print(stu1.math)
